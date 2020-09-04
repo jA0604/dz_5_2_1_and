@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dz_5_2_1_and</string>
+    <string name="name_dz">Сохранение/восстановление текста во внутренний файл</string>
+
+    <string name="str_ed_login">Login (не менее 3 символов)</string>
+    <string name="str_ed_password">Password (не менее 6 символов)</string>
+    <string name="str_btn_login">Login</string>
+    <string name="str_btn_registration">Registration</string>
+    
+    <string name="split_symbol">-#-</string>
+
+</resources>
